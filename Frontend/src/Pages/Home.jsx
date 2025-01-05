@@ -45,6 +45,7 @@ function Home() {
         <Button className='font-bold w-80 bg-orange-600 border-orange-600' onClick={() => {
           navigate('/result/resultid');
         }}>B.Tech Result</Button>
+      
       </div>
     </div>
   );
